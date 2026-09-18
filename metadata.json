@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Consumption Budget",
+  "moduleDescription": "AVM Resource Module for Consumption Budget",
+  "canonicalType": "Microsoft.Consumption/budgets",
+  "owners": [
+    "Akashc0807"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.5d294e3"
+}
